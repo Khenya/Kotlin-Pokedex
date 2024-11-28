@@ -3,7 +3,7 @@
   <img src="screenshots/kotlin.png" width="300" alt="Kotlin Pokedex">
 <br>
 <br>
-Pokedex app built with Kotlin
+Pokedex app built with Kotlin Brenda y Vivs
 </h1>
 
 <p align="center">
